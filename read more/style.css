@@ -1,0 +1,9 @@
+#extraContent {
+    display: none; 
+    margin-top: 10px;
+  }
+  .read-more {
+    color: blue;
+    cursor: pointer;
+    text-decoration: underline;
+  }
